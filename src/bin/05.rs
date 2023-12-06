@@ -1,5 +1,4 @@
 #![feature(iter_array_chunks)]
-use rayon::prelude::*;
 use std::{collections::HashMap, io::SeekFrom};
 
 advent_of_code::solution!(5);
